@@ -16,11 +16,14 @@ table, td {
     color: white;
 }
 body {
-    background: black;
+    background: pink;
 }
 li{
     color: white;
 }
 ul{
+    color: white;
+}
+th{
     color: white;
 }
