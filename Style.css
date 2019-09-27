@@ -1,31 +1,31 @@
 h1{
     color : white
 }
-img{
-    width : 300px
 }
 h1{
-    font-family : Comic Sans MS
+    font-family : Comic Sans MS;
+    text-align : center;
 }
 h2{
     font-Family : Comic Sans MS;
     color: white;
+    text-align: center;
 }
 table, td {
     border: 3px solid white;
     color: white;
 }
 body {
-    background: pink;
+    background: black;
 }
 li{
     color: white;
 }
 ul{
     color: white;
-}
-th{
-    color: white;
+    text-align: center;
+    list-style-type: none;
+    
 }
 nav ul li a {
     padding: 10px;
@@ -39,4 +39,12 @@ nav ul li {
 nav ul {
     list-style-type: none;
     margin: 0;
+}
+p {
+    color: white;
+    font-family: Comic Sans MS;
+    text-align: center;
+}
+a {
+    position: center;
 }
