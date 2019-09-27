@@ -4,7 +4,7 @@ h1{
 }
 h1{
     font-family : Comic Sans MS;
-    text-align : center;
+    position : center;
 }
 h2{
     font-Family : Comic Sans MS;
@@ -50,4 +50,8 @@ a {
 }
 img {
     width: 300px;
+}
+a:hover{
+    background-color: white;
+    color: black;
 }
