@@ -27,3 +27,16 @@ ul{
 th{
     color: white;
 }
+nav ul li a {
+    padding: 10px;
+    color: white;
+    display: block;
+    text-decoration: none;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul {
+    list-style-type: none;
+    margin: 0;
+}
